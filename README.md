@@ -1,3 +1,9 @@
+https://github.com/youbl/study/tree/master/study-codes/google-authenticator-demo
+google-authenticator-demo-third
+可跑
+http://127.0.0.1:8111/generate/jancky
+http://127.0.0.1:8111/validate/key?username=jancky&code=250076
+
 # 一些学习和演示代码
 
 ## chrome-extention
